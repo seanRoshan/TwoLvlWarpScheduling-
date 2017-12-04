@@ -1,0 +1,5 @@
+The entire GPGPU-Sim directory can be found in the following link: https://github.com/gpgpu-sim/gpgpu-sim_distribution
+
+The files "shader.cc" and "shader.h" can be found in /src/gpgpu-sim
+The file "abstract_hardware_model.h" can be found in /src
+The configuration files should be in the same folder as the executable files before running the benckmarks.

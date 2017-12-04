@@ -1,0 +1,5 @@
+>BFS:	./BFS ./graph4096.txt
+>BLK:	./BlackScholes
+>HIST:	./histogram 10000 1024
+>NN:	./NN 28
+>HS: 	./hotspot 512 2 2 ./temp_512 ./power_512 output.out
